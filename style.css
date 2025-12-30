@@ -309,6 +309,10 @@ footer .btn-outline-light:hover {
   transform: translateY(-3px)
 }
 
+footer .btn-outline-light:hover i {
+  color: #f1f1f1;
+}
+
 img {
   transition: opacity .3s ease
 }
